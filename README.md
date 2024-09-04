@@ -8,6 +8,9 @@ Insead of using the [replicate](https://replicate.com/black-forest-labs/flux-sch
 
 ## Deploy on Akash guide <img src="./assets/akash-logo.png" alt="drawing" width=20 height=20/>
 
+https://github.com/user-attachments/assets/744a7ec4-a42b-44ea-8163-a613638cc6d9
+
+
 - Create and fund a Keplr or Leap wallet
   - [Keplr wallet](https://akash.network/docs/getting-started/token-and-wallets/#keplr-wallet)
   - [Leap wallet](https://akash.network/docs/getting-started/token-and-wallets/#leap-cosmos-wallet)
