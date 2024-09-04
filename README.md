@@ -25,3 +25,20 @@ Insead of using the [replicate](https://replicate.com/black-forest-labs/flux-sch
 - Go to LEASES and press the URI
 - Check the [Akash docs](https://akash.network/docs/deployments/cloudmos-deploy/) if you have and questions
 - Start generating images!
+
+## Example
+
+`prompt: A server room and a red logo with the word "AKASH" in the center`
+
+<table>
+  <tr>
+    <td>Result 1</td>
+     <td>Result 2</td>
+     <td>Result 3</td>
+  </tr>
+  <tr>
+    <td><img src="./assets/akash1.png" alt="drawing" width=300 height=300/></td>
+    <td><img src="./assets/akash2.png" alt="drawing" width=300 height=300/></td>
+    <td><img src="./assets/akash3.png" alt="drawing" width=300 height=300/></td>
+  </tr>
+ </table>
